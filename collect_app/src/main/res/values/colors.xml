@@ -35,11 +35,11 @@ the License.
     <color name="lightPrimaryTextColor">#de000000</color>
     <color name="lightSecondaryTextColor">#99000000</color>
     <color name="defaultLightIconColor">#de000000</color>
-    <color name="lightDividerColor">#1e000000</color>
+    <color name="lightDividerColor">#64dd17</color>
     <color name="lightRankItemColor">#EEEEEE</color>
     <color name="lightAccentColor">@color/blue_500</color>
-    <color name="lightIconColorDisabled">#61000000</color>
-    <color name="lightIconColorEnabled">#de000000</color>
+    <color name="lightIconColorDisabled">#6125be22</color>
+    <color name="lightIconColorEnabled">#de1db106</color>
 
     <color name="highContrastHighlight">#ff8c00</color>
     <color name="displaySubtextColor">@color/green_500</color>
@@ -48,4 +48,25 @@ the License.
     <color name="locationStatusSearching">#333333</color>
     <color name="locationStatusAcceptable">#337733</color>
     <color name="locationStatusUnacceptable">#773333</color>
+
+
+    <color name="colorPrimary">#2cbc1c</color>
+    <color name="colorPrimaryDark">#1ba318</color>
+    <color name="colorAccent">#FFA000</color>
+    <color name="primaryTextColor">#727474</color>
+    <color name="tintColor">#2196F3</color>
+    <color name="black">#6e6b6b</color>
+    <color name="grey">#727474</color>
+    <color name="greyDark">#4d5050</color>
+    <color name="white">#ffffff</color>
+
+    <color name="primary">#FFC107</color>
+    <color name="primary_dark">#FFA000</color>
+    <color name="primary_light">#FFECB3</color>
+    <color name="accent">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#BDBDBD</color>
+
 </resources>

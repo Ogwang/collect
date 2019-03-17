@@ -277,7 +277,7 @@
     <string name="go_drive">My Drive</string>
     <string name="go_shared">Shared with Me</string>
     <string name="modified_on_date_at_time">\'Modified on\' EEE, MMM dd, yyyy \'at\' HH:mm</string>
-    <string name="aggregate_preferences">ODK Aggregate settings</string>
+    <string name="aggregate_preferences">iPayAgent Aggregate settings</string>
     <string name="sms_submission_preferences">SMS submission settings</string>
     <string name="submission_transport">Submission transport (advanced)</string>
     <string name="submission_transport_types_title">Send submissions via</string>
@@ -288,7 +288,7 @@
     <string name="no_google_account">No Google Account Selected!</string>
     <string name="google_set_account">You have selected Google Sheets as your server, please select a corresponding Google account in the General Settings before continuing</string>
     <string name="media_upload_error">Failed to upload media file that does not exist: %1$s</string>
-    <string name="odk_permissions_fail">ODK auto send permission failure, please make sure your have granted all required permissions</string>
+    <string name="odk_permissions_fail">iPay Agent auto send permission failure, please make sure your have granted all required permissions</string>
     <string name="odk_auto_note">ODK auto-send results</string>
     <string name="odk_auto_download_notification_title">ODK auto-download results</string>
     <string name="notification_error">Error displaying notification text</string>
@@ -307,7 +307,7 @@
     <string name="google_play_services_error_occured">Unable to access Google Maps. Is Google Play Services installed?</string>
     <string name="about_preferences">About</string>
     <string name="tell_your_friends">Share ODK Collect</string>
-    <string name="tell_your_friends_msg">Are your colleagues still collecting data on paper? Share ODK Collect with them.</string>
+    <string name="tell_your_friends_msg">Are your colleagues still collecting data on paper? Share iPay Agent Collect with them.</string>
     <string name="leave_a_review">Leave a Play Store review</string>
     <string name="leave_a_review_msg">Your (hopefully positive) review increases the visibility of the App in the Play Store.</string>
     <!-- Geo string added in feature-geofeatures branch-->
@@ -349,7 +349,7 @@
     <string name="select_offline_layer">Select Offline Layer</string>
     <string name="polygon_or_polyline">"Save GeoTrace As"</string>
     <string name="geo_clear_warning">Feature already created. Would you like to clear the feature?</string>
-    <string name="geo_exit_warning">Discard changes and return to ODK?</string>
+    <string name="geo_exit_warning">Discard changes and return to iPay Agent?</string>
     <string name="polygon_validator">Must have at least 3 points to create Polygon</string>
     <string name="polyline_validator">Must have at least 2 points to create Polyline</string>
     <string name="clear">Clear</string>
@@ -409,9 +409,9 @@
     <string name="selected_answer">Selected: %s</string>
     <string name="version_number">Version: %s</string>
     <string name="id_number">ID: %s</string>
-    <string name="odk_website">Visit the ODK website</string>
-    <string name="odk_website_summary">Open Data Kit (ODK) is used to collect data for social good in challenging environments.</string>
-    <string name="odk_forum">Join the ODK forum</string>
+    <string name="odk_website">Visit the ILaraPay website</string>
+    <string name="odk_website_summary">iPay Agent is used to collect data for social good in challenging environments.</string>
+    <string name="odk_forum">Join the iPay Agent forum</string>
     <string name="odk_forum_summary">Join the forum to get support, request features, contribute code/translations! </string>
     <string name="all_open_source_licenses">Open source libraries/licenses</string>
     <string name="all_open_source_licenses_msg">We stand on the shoulders of giants!</string>
@@ -689,4 +689,11 @@
     <string name="read_details">Read details</string>
     <string name="google_sheets_encrypted_message">Encrypted forms can\'t be submitted to Google Sheets.</string>
     <string name="number_picker_title">Number Picker</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
 </resources>
